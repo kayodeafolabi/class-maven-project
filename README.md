@@ -1,0 +1,1 @@
+# class-maven-project
